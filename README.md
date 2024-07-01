@@ -37,7 +37,7 @@ Run the Docker container:
 Open your browser and acceess project through this URL: http://127.0.0.1:8000/
 
 Then you can submit the test image file named *adenocarcinoma.png* to see 
-the resutl 
+the result 
 
 Also you can test the project through FastAPI docs: http://127.0.0.1:8000/docs
 
