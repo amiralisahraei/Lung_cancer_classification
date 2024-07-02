@@ -13,6 +13,9 @@ This project is a FastAPI-based API for lung cancer classification. It provides 
 * Squamous Cell Carcinoma
 * Dockerize the project
 
+# Dataset
+[Download from Kaggle](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images)
+
 ## Results
   
 <table>
