@@ -1,5 +1,5 @@
 # Lung Cancer Classification
-This project is a FastAPI-based API for lung cancer classification. It provides endpoints to classify chest CT images into 4 categories based on input images. In addiotion, I have dockerized the project.
+This project is a FastAPI-based app for lung cancer classification. It provides endpoints to classify chest CT images into 4 categories based on input images. In addiotion, I have dockerized the project.
 
 # Steps
 * first I have maden an effort to train the model by my own model and a pre-trained model
