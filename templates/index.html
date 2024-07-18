@@ -20,7 +20,7 @@
 
             <div class="row mt-4">
                 <div class="col-md-6 offset-md-3">
-                    <form action="/prediction" method="post" >
+                    <form action="/prediction" method="post" enctype="multipart/form-data">
                         <div class="form-group">
                           <input type="file" class="form-control" name="image" id="exampleInputFile" onchange="loadFile(event)"  required> 
                           <div style="margin: 10px; display:none" id="image_block"><img id="output" width="200" /></div>
